@@ -34,8 +34,8 @@ Currently learning **Git & GitHub** to version and share my projects.
 <br>
 <img alt="PLC" src="https://img.shields.io/badge/PLC_Programming-Basic-0A66C2?style=for-the-badge" height="36" />
 <img alt="HMI" src="https://img.shields.io/badge/HMI_Design-Basic-0A66C2?style=for-the-badge" height="36" />
-<img alt="TIA Portal" src="https://img.shields.io/badge/TIA_Portal-009999?style=for-the-badge&logo=siemens&logoColor=white" height="36" />
-<img alt="SIMATIC Manager" src="https://img.shields.io/badge/SIMATIC_Manager-009999?style=for-the-badge&logo=siemens&logoColor=white" height="36" />
+<img alt="TIA Portal" src="https://img.shields.io/badge/SIEMENS-TIA_Portal-009999?style=for-the-badge&labelColor=00646E" height="36" />
+<img alt="SIMATIC Manager" src="https://img.shields.io/badge/SIEMENS-SIMATIC_Manager-009999?style=for-the-badge&labelColor=00646E" height="36" />
 <img alt="AutoCAD 2D" src="https://img.shields.io/badge/AutoCAD_2D-E51050?style=for-the-badge&logo=autodesk&logoColor=white" height="36" />
 <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=white" height="36" />
 <img alt="Circuit Design" src="https://img.shields.io/badge/Electronic_Circuit_Design-6A1B9A?style=for-the-badge" height="36" />
