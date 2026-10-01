@@ -14,7 +14,6 @@ From university, I have a foundation in **PLC programming** and **HMI design**.
 I program microcontrollers in **C / Embedded C** and design **electronic circuits** with **KiCad**.  
 Currently learning **Git & GitHub** to version and share my projects.
 
-🔭 Open to **remote opportunities** in industrial automation and electronics.
 
 ---
 
