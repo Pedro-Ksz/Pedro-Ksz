@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 Electrical Engineering student (6th semester) focused on **industrial automation** and **embedded systems**.  
-I work with **electronic maintenance and repair of PLCs, HMIs and power supplies**, And use **AutoCAD 2D** and **Autodesk Inventor** to design parts for manufacturing and replacement in industrial equipment.  
+I work with **electronic maintenance and repair of PLCs, HMIs and power supplies**, and use **AutoCAD 2D** and **Autodesk Inventor** to design parts for manufacturing and replacement in industrial equipment.  
 From university, I have a foundation in **PLC programming** and **HMI design**.  
 I am learning to program microcontrollers in **C / Embedded C** and design **electronic circuits** with **KiCad**.  
 Currently learning **Git & GitHub** to version and share my projects.
@@ -26,6 +26,8 @@ Currently learning **Git & GitHub** to version and share my projects.
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br><sub><b>Git</b></sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br><sub><b>GitHub</b></sub></td>
     <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" /><br><sub><b>Windows</b></sub></td>
   </tr>
 </table>
 
@@ -39,6 +41,18 @@ Currently learning **Git & GitHub** to version and share my projects.
 <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=white" height="36" />
 <img alt="Circuit Design" src="https://img.shields.io/badge/Electronic_Circuit_Design-6A1B9A?style=for-the-badge" height="36" />
 <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="36" />
+
+---
+
+### 🌍 Spoken Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="110"><img src="https://flagcdn.com/w80/br.png" width="48" /><br><sub><b>Portuguese</b><br>Native</sub></td>
+    <td align="center" width="110"><img src="https://flagcdn.com/w80/us.png" width="48" /><br><sub><b>English</b><br>Advanced</sub></td>
+    <td align="center" width="110"><img src="https://flagcdn.com/w80/mx.png" width="48" /><br><sub><b>Spanish</b><br>Intermediate</sub></td>
+  </tr>
+</table>
 
 ---
 
