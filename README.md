@@ -11,7 +11,7 @@
 Electrical Engineering student (6th semester) focused on **industrial automation** and **embedded systems**.  
 I work with **electronic maintenance and repair of PLCs, HMIs and power supplies**, and use **AutoCAD 2D** and **Autodesk Inventor** to design parts for manufacturing and replacement in industrial equipment.  
 From university, I have a foundation in **PLC programming** and **HMI design**.  
-I program microcontrollers in **C / Embedded C** and design **electronic circuits** with **KiCad**.  
+I am learning to program microcontrollers in **C / Embedded C** and design **electronic circuits** with **KiCad**.  
 Currently learning **Git & GitHub** to version and share my projects.
 
 
