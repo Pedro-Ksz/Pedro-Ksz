@@ -41,6 +41,8 @@ Currently learning **Git & GitHub** to version and share my projects.
 <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk_Inventor-F5A623?style=for-the-badge&logo=autodesk&logoColor=white" height="36" />
 <img alt="Circuit Design" src="https://img.shields.io/badge/Electronic_Circuit_Design-6A1B9A?style=for-the-badge" height="36" />
 <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="36" />
+<img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial_Intelligence-AI_Tools-37474F?style=for-the-badge" height="36" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="36" />
 
 ---
 
